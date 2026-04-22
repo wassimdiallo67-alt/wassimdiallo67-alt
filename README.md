@@ -2,13 +2,13 @@
 
 Diplomé en Informatique - Intelligence Artificielle
 
-La Cité collégiale, Ottawa, Canada
+La Cité, Ottawa, Canada
 
 # Transformer les données en décision 
 
 ## À propos de moi
 
-Avec un parcours secondaire scientifique, je suis nouveau diplomé en IA à La Cité collégiale dans la ville de Ottawa au Canada, je maitrise le langage Python, le Machine Learning, les Data Science.
+Avec un parcours secondaire scientifique, je suis nouveau diplomé en IA à La Cité dans la ville de Ottawa au Canada, je maitrise le langage Python, le Machine Learning, les Data Science.
 
 ## Compétences techniques
 

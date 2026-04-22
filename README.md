@@ -20,11 +20,9 @@ Outils : Git, GitHub, Docker, Jupyter Notebook, VS Code
 
 ## Projet mis en avant
 
-Détection de Fraudes Bancaires par Autoencodeur
+Prédiction de la population canadienne et estimation des centres de santé
 
-Système de détection d'anomalies dans les transactions bancaires utilisant un autoencodeur.
-
-Voir le projet : https://github.com/wassimdiallo67-alt/D-tection-de-fraude-bancaire-
+Voir le projet : https://github.com/wassimdiallo67-alt/pr-diction-population-canadienne-
 
 ## Contact
 

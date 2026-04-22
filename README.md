@@ -4,7 +4,7 @@ Diplomé en Informatique - Intelligence Artificielle
 
 La Cité collégiale, Ottawa, Canada
 
-# Transformer les données en décision
+# Transformer les données en décision 
 
 ## À propos de moi
 

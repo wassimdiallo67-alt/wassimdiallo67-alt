@@ -1,12 +1,14 @@
 # Wassim Diallo
 
-Étudiant en Informatique - Intelligence Artificielle
+Diplomé en Informatique - Intelligence Artificielle
 
 La Cité collégiale, Ottawa, Canada
 
+# Transformer les données en décision
+
 ## À propos de moi
 
-Avec un parcours secondaire scientifique, je suis présentement étudiant en IA à La Cité collégiale dans la ville de Ottawa au Canada, on apprend le langage Python, le Machine Learning, les Data Science.
+Avec un parcours secondaire scientifique, je suis nouveau diplomé en IA à La Cité collégiale dans la ville de Ottawa au Canada, je maitrise le langage Python, le Machine Learning, les Data Science.
 
 ## Compétences techniques
 
